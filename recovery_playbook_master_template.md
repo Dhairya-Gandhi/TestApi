@@ -1,7 +1,4 @@
-
-| | |
-| :--- | :--- |
-| <span id="temp:s:temp:C:KSZd35de531df9d435bb83bfcfc0_temp:C:KSZ7455623c8b49427298ad06d0b">Name of service(s) that this Playbook supports EXACTLY as it appears in the Salesforce Service Registry (If this playbook supports more than one service, please add rows as necessary to capture all)</span> | Service Name |​
+​
 
 
 ​
@@ -16,6 +13,9 @@
 ​
 
 
+| | |
+| :--- | :--- |
+| <span id="temp:s:temp:C:KSZd35de531df9d435bb83bfcfc0_temp:C:KSZ7455623c8b49427298ad06d0b">Name of service(s) that this Playbook supports EXACTLY as it appears in the Salesforce Service Registry (If this playbook supports more than one service, please add rows as necessary to capture all)</span> | Service Name |
 ​
 
 
